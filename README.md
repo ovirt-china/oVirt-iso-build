@@ -38,4 +38,4 @@ OCselected-oVirt 3.3.x 构建相关内容移至 3.3.x 目录之下， 构建内�
 ### Wiki
 构建过程相关文档请查看项目Wiki：
 
-[OCselected-oVirt-building Wiki](https://www.ocselected.org/wiki/OCselected-oVirt-building/)
+[OCselected-oVirt-building Wiki](http://www.ocselected.org/wiki/OCselected-oVirt-building/)
