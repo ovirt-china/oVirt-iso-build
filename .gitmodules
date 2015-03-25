@@ -1,0 +1,21 @@
+[submodule "packaging/livecd/upstream"]
+	path = packaging/livecd/upstream
+	url = https://git.fedorahosted.org/git/livecd
+[submodule "packaging/ovirt-node/upstream"]
+	path = packaging/ovirt-node/upstream
+	url = https://github.com/oVirt/ovirt-node.git
+[submodule "packaging/ovirt-node-plugin-hosted-engine/upstream"]
+	path = packaging/ovirt-node-plugin-hosted-engine/upstream
+	url = https://github.com/oVirt/ovirt-node-plugin-hosted-engine.git
+[submodule "packaging/ovirt-node-plugin-vdsm/upstream"]
+	path = packaging/ovirt-node-plugin-vdsm/upstream
+	url = https://github.com/oVirt/ovirt-node-plugin-vdsm.git
+[submodule "iso-building/ovirt-node-iso"]
+	path = iso-building/ovirt-node-iso
+	url = https://github.com/oVirt/ovirt-node-iso.git
+[submodule "packaging/ovirt-hosted-engine-setup/upstream"]
+	path = packaging/ovirt-hosted-engine-setup/upstream
+	url = https://github.com/oVirt/ovirt-hosted-engine-setup.git
+[submodule "vdsm"]
+	path = packaging/vdsm/upstream
+	url = https://github.com/oVirt/vdsm.git
